@@ -1,4 +1,5 @@
-<h1 align="center">Hi I Am Jawad Ali</h1>
+<h1 align="center">Hello There! It's Me Jawad Ali</h1>
+<p align="center">Web Developer with most extensive knowledge of MERN working with the technology since past five years</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,angular,cs,cpp,css,dj,ex,figma,html,js,jquery" />
