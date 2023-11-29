@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Jawad-Ali-Soomro
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on MERN projects
-- 📫 WhatsApp : +923173270808
+<h1>Hi I Am Jawad Ali</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,angular,cs,cpp,css,dj,ex,figma,html,js,jquery" />
