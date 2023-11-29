@@ -1,4 +1,4 @@
-<h1>Hi I Am Jawad Ali</h1>
+<h1 text-align="center">Hi I Am Jawad Ali</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,angular,cs,cpp,css,dj,ex,figma,html,js,jquery" />
