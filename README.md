@@ -5,7 +5,7 @@
 - 📫 WhatsApp : +923173270808
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,angular,cs,cpp,css,dj,ex,figma,html,js,jquery" />
   </a>
 </p>
 <!---
