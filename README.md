@@ -12,13 +12,13 @@
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=html" />
   </a>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=css" />
   </a>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=js" />
   </a>
   <a href="">
     <img src="https://skillicons.dev/icons?i=git" />
