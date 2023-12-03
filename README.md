@@ -7,11 +7,7 @@
 😄 Pronouns: Him
 <br/>
 <h2>Languages And Tools</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,angular,cs,cpp,vscode,react,bootstrap,mongoose" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=git" />
 <!---
 Jawad-Ali-Soomro/Jawad-Ali-Soomro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
