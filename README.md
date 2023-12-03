@@ -6,10 +6,10 @@
 📫 How to reach me: 03173270808<br />
 😄 Pronouns: Him
 <br/>
-<h2>Languages ANd Tools</h2>
+<h2>Languages And Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,angular,cs,cpp" />
+    <img src="https://skillicons.dev/icons?i=git,angular,cs,cpp,vscode" />
   </a>
 </p>
 <!---
