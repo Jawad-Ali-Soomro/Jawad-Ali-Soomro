@@ -7,7 +7,7 @@
 😄 Pronouns: Him
 <br/>
 <h2>Languages And Tools</h2>
-<div align="center">
+<div align="center" flex width="400px">
   <a href="">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
