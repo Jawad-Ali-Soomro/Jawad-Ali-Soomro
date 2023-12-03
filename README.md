@@ -49,9 +49,9 @@
   </a>
 </div>
 <h2>Professional Skills 🔥</h2>
-💥 Languages: Java, C, C++, Python, JavaScript
-💥 Web Application Development: MERN
-💥 FrontEnd Web Development: HTML, CSS, Bootstrap
+💥 Languages: Java, C, C++, Python, JavaScript <br />
+💥 Web Application Development: MERN <br />
+💥 FrontEnd Web Development: HTML, CSS, Bootstrap <br />
 <!---
 Jawad-Ali-Soomro/Jawad-Ali-Soomro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
