@@ -21,37 +21,31 @@
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=vite" />
   </a>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=react" />
   </a>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=androidstudio" />
   </a>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=django" />
   </a>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=dotnet" />
   </a>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=express" />
   </a>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=firebase" />
   </a>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=postman" />
   </a>
 </div>
 <!---
