@@ -1,4 +1,6 @@
-<h1>Hello There! It's Me Jawad Ali 👋</h1>
+<h1 style="align-center">Hello There! It's Me Jawad Ali 👋</h1>
+<p>
+Meet Jawad Ali, a highly skilled MERN stack developer with a passion for creating dynamic and efficient web applications. With a strong background in web development and a keen eye for detail, Jawad Ali brings a wealth of experience and expertise to every project.</p>
 <p style="bold">✨ Backend Developer | Mern Developer |  Api Tester | FrontEnd Web Developer ⚡</p>
 <p>
   🔭 I’m currently learning and working on Web Application Development on MERN<br />
