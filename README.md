@@ -10,7 +10,7 @@
 <br/>
 <h2>Languages And Tools</h2>
 <div>
-  <a href="">
+  <a href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
   <a href="">
