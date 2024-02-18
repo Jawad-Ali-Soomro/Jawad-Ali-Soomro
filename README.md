@@ -1,8 +1,8 @@
-<h1 align="center">Hello There! It's Me Jawad Ali 👋</h1>
-<p align="center">
+<h1>Hello There! It's Me Jawad Ali 👋</h1>
+<p>
 Meet Jawad Ali, a highly skilled MERN stack developer with a passion for creating dynamic and efficient web applications. With a strong background in web development and a keen eye for detail, Jawad Ali brings a wealth of experience and expertise to every project.</p>
 <p style="bold">✨ Backend Developer | Mern Developer |  Api Tester | FrontEnd Web Developer ⚡</p>
-<p align="center">
+<p >
   🔭 I’m currently learning and working on Web Application Development on MERN<br />
   💻 I am a Web Developer Specialist<br />
   🎨 I am doing bootcamp @ Institute Of Business Administration Sukkur (IBA)<br />
@@ -10,8 +10,8 @@ Meet Jawad Ali, a highly skilled MERN stack developer with a passion for creatin
   😄 Pronouns: Him
 </p>
 <br/>
-<h2 align="center">Languages And Tools</h2>
-<div align="center">
+<h2 >Languages And Tools</h2>
+<div>
   <a href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
@@ -52,8 +52,8 @@ Meet Jawad Ali, a highly skilled MERN stack developer with a passion for creatin
     <img src="https://skillicons.dev/icons?i=postman" />
   </a>
 </div>
-<h2 align="center">Professional Skills 🔥</h2>
-<h2 align="center">
+<h2 >Professional Skills 🔥</h2>
+<h2 >
   💥 Languages: Java, C, C++, Python, JavaScript <br />
 💥 Web Application Development: MERN <br />
 💥 FrontEnd Web Development: HTML, CSS, Bootstrap <br /></h2>
