@@ -57,7 +57,7 @@ Meet Jawad Ali, a highly skilled MERN stack developer with a passion for creatin
   </a>
 </div>
 <h2 align="center">Professional Skills 🔥</h2>
-<h2 align="center>
+<h2 align="center">
   💥 Languages: Java, C, C++, Python, JavaScript <br />
 💥 Web Application Development: MERN <br />
 💥 FrontEnd Web Development: HTML, CSS, Bootstrap <br /></h2>
