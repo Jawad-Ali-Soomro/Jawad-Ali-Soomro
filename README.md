@@ -2,11 +2,11 @@
   <img src="https://avatars.githubusercontent.com/u/142707756?v=4" alt="profile">
 </p>
 
-<h1 style="align-center">Hello There! It's Me Jawad Ali 👋</h1>
-<p>
+<h1 align="center">Hello There! It's Me Jawad Ali 👋</h1>
+<p align="center">
 Meet Jawad Ali, a highly skilled MERN stack developer with a passion for creating dynamic and efficient web applications. With a strong background in web development and a keen eye for detail, Jawad Ali brings a wealth of experience and expertise to every project.</p>
 <p style="bold">✨ Backend Developer | Mern Developer |  Api Tester | FrontEnd Web Developer ⚡</p>
-<p>
+<p align="center">
   🔭 I’m currently learning and working on Web Application Development on MERN<br />
   💻 I am a Web Developer Specialist<br />
   🎨 I am doing bootcamp @ Institute Of Business Administration Sukkur (IBA)<br />
@@ -14,8 +14,8 @@ Meet Jawad Ali, a highly skilled MERN stack developer with a passion for creatin
   😄 Pronouns: Him
 </p>
 <br/>
-<h2>Languages And Tools</h2>
-<div>
+<h2 align="center">Languages And Tools</h2>
+<div align="center">
   <a href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
