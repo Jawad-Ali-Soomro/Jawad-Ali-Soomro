@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/142707756?v=4" alt="profile">
+  <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/142707756?v=4" alt="profile">
 </p>
 
 <h1 align="center">Hello There! It's Me Jawad Ali 👋</h1>
@@ -57,9 +57,10 @@ Meet Jawad Ali, a highly skilled MERN stack developer with a passion for creatin
   </a>
 </div>
 <h2 align="center">Professional Skills 🔥</h2>
-💥 Languages: Java, C, C++, Python, JavaScript <br />
+<h2 align="center>
+  💥 Languages: Java, C, C++, Python, JavaScript <br />
 💥 Web Application Development: MERN <br />
-💥 FrontEnd Web Development: HTML, CSS, Bootstrap <br />
+💥 FrontEnd Web Development: HTML, CSS, Bootstrap <br /></h2>
 <!---
 Jawad-Ali-Soomro/Jawad-Ali-Soomro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
