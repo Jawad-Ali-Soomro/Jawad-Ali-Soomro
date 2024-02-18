@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="border-radius: 500px" src="https://avatars.githubusercontent.com/u/142707756?v=4" alt="profile">
+  <img style="border-radius: 500px;" src="https://avatars.githubusercontent.com/u/142707756?v=4" alt="profile">
 </p>
 
 <h1 align="center">Hello There! It's Me Jawad Ali 👋</h1>
