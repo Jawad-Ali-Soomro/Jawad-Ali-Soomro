@@ -18,7 +18,6 @@ jawadal829@gmail.com
   
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://twitter.com/haseebabbasi00" target="blank"><img align="center" src="./img/twitter.svg" alt="haseebullahabbasi-1" height="30" width="40" /></a>
 <a href="https://dev.to/haseebullahabbasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="haseebullahabbasi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/haseebullahabbasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haseebullahabbasi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/haseebabbasi00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="haseebabbasi00" height="30" width="40" /></a>
