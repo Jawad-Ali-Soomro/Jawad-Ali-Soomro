@@ -66,12 +66,12 @@ jawadal829@gmail.com
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaseebUllahAbbasi&layout=compact&theme=dark&langs_count=10" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawad-Ali-Soomro&layout=compact&theme=dark&langs_count=10" width="50%"/>
 </p>
 
 <div align="center">
 
-  <a href="https://www.buymeacoffee.com/haseebullah" target="_blank">
+  <a href="https://www.buymeacoffee.com/Jawad.ali.soomro" target="_blank">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"/>
   </a>
 </div>
