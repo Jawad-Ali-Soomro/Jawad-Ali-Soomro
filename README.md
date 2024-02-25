@@ -61,8 +61,8 @@ jawadal829@gmail.com
 <h2 align="center">🏆 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaseebUllahAbbasi&theme=dark&show_icons=true&count_private=true" alt="Haseeb's GitHub Stats" width="42.5%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=haseebullahabbasi&theme=dark" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jawad-Ali-Soomro&theme=dark&show_icons=true&count_private=true" alt="Haseeb's GitHub Stats" width="42.5%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jawad-ALi-Soomro&theme=dark" width="45%"/>
 </p>
 
 <p align="center">
