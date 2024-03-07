@@ -1,14 +1,14 @@
 
-<h1>Hi there 👋, It's me Jawad Ali</h1>
+<h1 align="center">Hi there 👋, It's me Jawad Ali</h1>
 
-<h3 >Motivated and dynamic Information Technology & computer science professional with a strong commitment to continuous learning through the resolution of complex tasks. Seeking opportunities to collaborate with experienced developers and contribute valuable skills to impactful projects. </h3>
+<h3 align="center">Motivated and dynamic Information Technology & computer science professional with a strong commitment to continuous learning through the resolution of complex tasks. Seeking opportunities to collaborate with experienced developers and contribute valuable skills to impactful projects. </h3>
 <br/>
 
-<p> 🔭 I’m currently working on  **UI Design | UX Design**. </p>
-<p> 👯 I’m looking to collaborate on **Full Stack| Blockchain | Machine Learning **. </p>
-<p> 💬 Ask me about **full-stack | web3**. </p>
-<p>  🎉 Love to discuss **web3 | UI/UX Design | blockchain**. </p>
-<p>  📫 How to reach me **
+<p align="center"> 🔭 I’m currently working on  **UI Design | UX Design**. </p>
+<p align="center"> 👯 I’m looking to collaborate on **Full Stack| Blockchain | Machine Learning **. </p>
+<p align="center"> 💬 Ask me about **full-stack | web3**. </p>
+<p align="center">  🎉 Love to discuss **web3 | UI/UX Design | blockchain**. </p>
+<p align="center">  📫 How to reach me **
 <b>
 jawadal829@gmail.com
 </b>** </p>
@@ -16,7 +16,7 @@ jawadal829@gmail.com
 
 <br>
 
-<h2>Languages and Tools:</h2>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -47,9 +47,9 @@ jawadal829@gmail.com
   
  </p>
 <br/>
-<h2>🏆 GitHub Stats</h2>
+<h2 align="center">🏆 GitHub Stats</h2>
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jawad-Ali-Soomro&theme=dark&show_icons=true&count_private=true" alt="Haseeb's GitHub Stats" width="42.5%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Jawad-ALi-Soomro&theme=dark" width="45%"/>
 </p>
@@ -58,7 +58,7 @@ jawadal829@gmail.com
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawad-Ali-Soomro&layout=compact&theme=dark&langs_count=10" width="50%"/>
 </p>
 
-<div>
+<div align="center">
 
   <a href="https://www.buymeacoffee.com/Jawad.ali.soomro" target="_blank">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"/>
