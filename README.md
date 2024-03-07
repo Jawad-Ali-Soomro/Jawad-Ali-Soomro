@@ -54,7 +54,7 @@ jawadal829@gmail.com
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Jawad-ALi-Soomro&theme=dark" width="45%"/>
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawad-Ali-Soomro&layout=compact&theme=dark&langs_count=10" width="50%"/>
 </p>
 
