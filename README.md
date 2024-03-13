@@ -1,5 +1,4 @@
-<p align="center"><a href="https://jawad-ali-soomro-github.io"><img width="80%" alt="Hello, I'm Jawad I do development!" src="./assets/gh-readme-header.png" /></a></p>
-
+<h1 align="center">Hi There! 👋 Its Me <br />Jawad Ali ❤️</h1>
 <h3 align="center">Motivated and dynamic Information Technology & computer science professional with a strong commitment to continuous learning through the resolution of complex tasks. Seeking opportunities to collaborate with experienced developers and contribute valuable skills to impactful projects. </h3>
 <br/>
 
