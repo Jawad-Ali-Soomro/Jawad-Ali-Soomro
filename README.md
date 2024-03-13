@@ -1,5 +1,5 @@
 <h1 align="center">Hi There! &nbsp; 👋 &nbsp; Its Me <br />Jawad Ali &nbsp; ❤️</h1>
-<h3 align="center">Motivated and dynamic Information Technology & computer science professional with a strong commitment to continuous learning through the resolution of complex tasks. Seeking opportunities to collaborate with experienced developers and contribute valuable skills to impactful projects. </h3>
+<p align="center">Motivated and dynamic Information Technology & computer science professional with a strong commitment to continuous learning through the resolution of complex tasks. Seeking opportunities to collaborate with experienced developers and contribute valuable skills to impactful projects. </p>
 <br/>
 
 <p align="center"> 🔭 I’m currently working on  **UI Design | UX Design**. </p>
