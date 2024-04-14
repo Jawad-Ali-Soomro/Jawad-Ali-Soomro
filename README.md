@@ -2,7 +2,7 @@
 <h3 >A passionate frontend developer and full stack along with blockchain development from Pakistan</h3>
 <p> <img src="https://komarev.com/ghpvc/?username=jawad-ali-soomro&label=Profile%20views&color=0e75b6&style=flat" alt="jawad-ali-soomro" /> </p>
 
-- 🔭 I’m currently working on [A R T C H A I N](https://github.com/Jawad-Ali-Soomro/art-chain)
+- 🔭 I’m currently working on **[A R T C H A I N](https://github.com/Jawad-Ali-Soomro/art-chain)**
 
 - 🌱 I’m currently learning **T H R E E . J S**
 
@@ -10,9 +10,7 @@
 
 - 🤝 I’m looking for help with **R E A C T J S**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jawad-Ali-Soomro](https://github.com/Jawad-Ali-Soomro)
-
-- 💬 Ask me about **R E A C T**
+- 💬 Ask me about **M E R N**
 
 
 
