@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jawad Ali</h1>
-<h3 align="center">A passionate frontend developer and full stack along with blockchain development from Pakistan</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jawad-ali-soomro&label=Profile%20views&color=0e75b6&style=flat" alt="jawad-ali-soomro" /> </p>
+<h1 >Hi 👋, I'm Jawad Ali</h1>
+<h3 >A passionate frontend developer and full stack along with blockchain development from Pakistan</h3>
+<p> <img src="https://komarev.com/ghpvc/?username=jawad-ali-soomro&label=Profile%20views&color=0e75b6&style=flat" alt="jawad-ali-soomro" /> </p>
 
 - 🔭 I’m currently working on [A R T C H A I N](https://github.com/Jawad-Ali-Soomro/art-chain)
 
