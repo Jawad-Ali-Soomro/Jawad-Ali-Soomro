@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Jawad Ali</h1>
-<h3 >A  P A S S I O N A T E  F R O N T E N D  D E V E L O P E R  &  F U L L  S T A C K  A L O N G   W I T H  B L O C K C H A I N  D E V E L O P M E N T  F R O M  P A K I S T A N </h3>
+<h3 >A $nbsp;  P A S S I O N A T E  F R O N T E N D  D E V E L O P E R  &  F U L L  S T A C K  A L O N G   W I T H  B L O C K C H A I N  D E V E L O P M E N T  F R O M  P A K I S T A N </h3>
 <p> <img src="https://komarev.com/ghpvc/?username=jawad-ali-soomro&label=Profile%20views&color=0e75b6&style=flat" alt="jawad-ali-soomro" /> </p>
 <br />
 🔭 I ' M  C U R R E N T L Y   W O R K I N G  O N  **A R T C H A I N**
