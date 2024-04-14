@@ -1,4 +1,4 @@
-<h1 >H I &nbsp; 👋, &nbsp; I ' M &nbsp; J A W A D &nbsp; A L I </h1>
+<h1 >H I &nbsp;👋, &nbsp; I ' M &nbsp; J A W A D &nbsp; A L I </h1>
 <h3 >A &nbsp;  P A S S I O N A T E &nbsp;  F R O N T E N D &nbsp;  D E V E L O P E R &nbsp;  & &nbsp; F U L L  S T A C K &nbsp;  A L O N G &nbsp;  W I T H &nbsp; B L O C K C H A I N &nbsp; D E V E L O P M E N T &nbsp; F R O M &nbsp; P A K I S T A N </h3>
 <p> <img src="https://komarev.com/ghpvc/?username=jawad-ali-soomro&label=Profile%20views&color=0e75b6&style=flat" alt="jawad-ali-soomro" /> </p>
 <br />
