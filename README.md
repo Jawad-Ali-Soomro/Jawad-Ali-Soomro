@@ -1,4 +1,4 @@
-<h1 >Hi 👋, I'm Jawad Ali</h1>
+<h1 >H I &nbsp; 👋, &nbsp; I ' M &nbsp; J A W A D &nbsp; A L I </h1>
 <h3 >A &nbsp;  P A S S I O N A T E &nbsp;  F R O N T E N D &nbsp;  D E V E L O P E R &nbsp;  & &nbsp; F U L L  S T A C K &nbsp;  A L O N G &nbsp;  W I T H &nbsp; B L O C K C H A I N &nbsp; D E V E L O P M E N T &nbsp; F R O M &nbsp; P A K I S T A N </h3>
 <p> <img src="https://komarev.com/ghpvc/?username=jawad-ali-soomro&label=Profile%20views&color=0e75b6&style=flat" alt="jawad-ali-soomro" /> </p>
 <br />
@@ -11,7 +11,7 @@
 👯 I ' M &nbsp; L O O K I N G &nbsp; T O &nbsp; C O L L A B O R A T E &nbsp; O N &nbsp; B L O C K C H A I N
 <br />
 <br />
-🤝 I ' M &nbsp; W O R K I N G &nbsp; W I T H &nbsp; R E A C T J S
+🤝 I ' M &nbsp; W O R K I N G &nbsp; W I T H &nbsp; R E A C T . J S
 <br />
 <br />
 💬 A S K &nbsp; M E &nbsp; A B O U T &nbsp; M E R N
