@@ -3,14 +3,14 @@
 <p> <img src="https://komarev.com/ghpvc/?username=jawad-ali-soomro&label=Profile%20views&color=0e75b6&style=flat" alt="jawad-ali-soomro" /> </p>
 <br />
 🔭 I’m currently working on **[A R T C H A I N](https://github.com/Jawad-Ali-Soomro/art-chain)**
-
+<br />
 
 🌱 I’m currently learning **T H R E E . J S**
-
+<br />
 👯 I’m looking to collaborate on **B L O C K C H A I N**
-
+<br />
 🤝 I’m looking for help with **R E A C T J S**
-
+<br />
 💬 Ask me about **M E R N**
   <br />
 <h3 align="left">Connect with me:</h3>
