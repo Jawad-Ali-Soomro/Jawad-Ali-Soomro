@@ -16,7 +16,7 @@
 <br />
 💬 A S K &nbsp; M E &nbsp; A B O U T &nbsp; M E R N
   <br />
-<h3 align="right">C O N N E C T &nbsp; W I T H &nbsp; M E:</h3>
+<h3 >C O N N E C T &nbsp; W I T H &nbsp; M E:</h3>
 <p >
 <a href="https://dev.to/jawadalisoomro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jawadalisoomro" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jawad-dakhan-250a742a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jawad-dakhan-250a742a0" height="30" width="40" /></a>
