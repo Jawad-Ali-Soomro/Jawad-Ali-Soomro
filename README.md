@@ -23,4 +23,4 @@
 </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jawad-Ali-Soomro&theme=dark&hide_border=true&border_radius=50&type=png)](https://git.io/streak-stats)
+[! align="right" [GitHub Streak](https://streak-stats.demolab.com?user=Jawad-Ali-Soomro&theme=dark&hide_border=true&border_radius=50&type=png)](https://git.io/streak-stats)
