@@ -21,3 +21,6 @@
 <a href="https://dev.to/jawadalisoomro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jawadalisoomro" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jawad-dakhan-250a742a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jawad-dakhan-250a742a0" height="30" width="40" /></a>
 </p>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jawad-Ali-Soomro&theme=dark&hide_border=true&border_radius=50&type=png)](https://git.io/streak-stats)
