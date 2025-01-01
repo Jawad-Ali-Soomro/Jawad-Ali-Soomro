@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jawad-ali-soomro" alt="jawad-ali-soomro" /></a> </p>
 
-- 🔭 I’m currently working on **** collab ****
+- 🔭 I’m currently working on **collab**
 
-- 🌱 I’m currently learning **** cybersecurity ****
+- 🌱 I’m currently learning **cybersecurity**
 
-- 👯 I’m looking to collaborate on **** blockchain ****
+- 👯 I’m looking to collaborate on **blockchain**
 
-- 🤝 I’m looking for help with **** clones ****
+- 🤝 I’m looking for help with **clones**
 
-- 💬 Ask me about **** react.js ****
+- 💬 Ask me about **react.js**
 
 - 📫 How to reach me **jsoomro@siftp.com**
 
