@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react.js**
 
-- 📫 How to reach me **jsoomro@siftp.com**
+- 📫 How to reach me **jawadal829@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
