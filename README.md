@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jawad-Ali-Soomro" alt="jawad-ali-soomro" /></a> </p>
 
-- 🔭 I’m currently working on **collab**
+- 🔭 I’m currently working on **Remotive**
 
-- 🌱 I’m currently learning **cybersecurity**
+- 🌱 I’m currently learning **core-fundamentals**
 
-- 👯 I’m looking to collaborate on **blockchain**
+- 👯 I’m looking to collaborate on **react-node.js**
 
-- 🤝 I’m looking for help with **clones**
+- 🤝 I’m looking for help with **web-solutions**
 
 - 💬 Ask me about **react.js**
 
